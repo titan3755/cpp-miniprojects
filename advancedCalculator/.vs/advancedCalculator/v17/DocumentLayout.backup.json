@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\programming\\yt_cpp\\advancedCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6324B4FA-634E-47D5-A6ED-B5108333F354}|advancedCalculator\\advancedCalculator.vcxproj|C:\\Users\\USER\\Desktop\\programming\\yt_cpp\\advancedCalculator\\advancedCalculator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6324B4FA-634E-47D5-A6ED-B5108333F354}|advancedCalculator\\advancedCalculator.vcxproj|solutionrelative:advancedCalculator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\programming\\yt_cpp\\advancedCalculator\\advancedCalculator\\main.cpp",
+              "RelativeDocumentMoniker": "advancedCalculator\\main.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\programming\\yt_cpp\\advancedCalculator\\advancedCalculator\\main.cpp",
+              "RelativeToolTip": "advancedCalculator\\main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T17:20:19.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
