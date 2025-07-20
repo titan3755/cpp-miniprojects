@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\USER\Desktop\programming\yt_cpp\numberGuesser\numberGuesser\main.cpp(64,2): error C2065: 'wt': undeclared identifier
+C:\Users\USER\Desktop\programming\yt_cpp\numberGuesser\numberGuesser\main.cpp(66,2): error C2059: syntax error: 'return'
